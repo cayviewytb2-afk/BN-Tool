@@ -5,6 +5,6 @@
   "link_download": "https://s.cloudnix.vn/tool/",
   "platforms": {
     "nvc": true,
-    "xsmm": true
+    "xsmm": false
   }
 }
