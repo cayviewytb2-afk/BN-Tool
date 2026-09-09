@@ -38,5 +38,14 @@ Dán toàn bộ lệnh tương ứng với phiên bản chip máy bạn vào Ter
   ```bash
   cd ~ && rm -f bn_tool_arm32 && cp -f /sdcard/Download/bn_tool_arm32* ~/bn_tool_arm32 && chmod +x ~/bn_tool_arm32 && cd /sdcard/Download && ~/bn_tool_arm32
   ```
+## 3. Hướng dẫn sử dụng Tool
+  Đối với PC: 
+    - Dùng chuột phải click vào sẽ hiện dropdown tính năng
+    - Dùng chuột trái rê vào để bôi đen để thao tác
+
+  Đối với điện thoại: 
+    - Ấn giữ một lúc rồi nhả ra hoặc click 2 lần vào cùng 1 vị trí sẽ hiện dropdown tính năng 
+    - Dùng tay ở cột ô vuông tick từng tài khoản có thể ấn giữ vào ô vị trí mình muốn sau đó giữ đè vuốt xuống thẳng hàng sẽ tự bôi đen tài khoản để thao tác
+
 
 ---
