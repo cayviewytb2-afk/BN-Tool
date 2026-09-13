@@ -1,0 +1,94 @@
+{
+  "facebook": {
+    "num_threads": 100,
+    "delay_thread": 0,
+    "folder_avatar": "",
+    "folder_cover": "",
+    "page_count": 1,
+    "page_delay": 300,
+    "switch_page_delay": 30,
+    "auto_up_avatar": false,
+    "auto_up_cover": false,
+    "post_count": 1,
+    "post_delay": 300,
+    "post_content": "",
+    "process_mode": "COOKIE",
+    "accounts_per_proxy": 1,
+    "proxy_assign_mode": "sequential",
+    "skip_existing_proxy": false,
+    "skip_duplicate_proxy": true,
+    "rest_mode_enabled": false,
+    "default_interaction_limits": {
+      "like_post": 30,
+      "like_comment": 30,
+      "comment": 30,
+      "follow": 30,
+      "share": 20
+    },
+    "max_consecutive_errors": 10,
+    "rest_duration_minutes": 60,
+    "restart_after_rest": true,
+    "save_fb_error_log": false,
+    "accumulate_xu": true
+  },
+  "nvc": {
+    "access_token": "",
+    "base_url": "https://nhiemvucheo.com/api/v1/task",
+    "rest_per_job_seconds": 5,
+    "rest_timing": "after_coins",
+    "tasks": [
+      {
+        "type": "facebook_like",
+        "enabled": true
+      },
+      {
+        "type": "facebook_likecmt",
+        "enabled": true
+      },
+      {
+        "type": "facebook_comment",
+        "enabled": true
+      },
+      {
+        "type": "facebook_follow",
+        "enabled": true
+      },
+      {
+        "type": "facebook_share",
+        "enabled": true
+      },
+      {
+        "type": "facebook_likepage",
+        "enabled": false
+      },
+      {
+        "type": "facebook_member",
+        "enabled": false
+      }
+    ]
+  },
+  "xsmm": {
+    "access_token": "",
+    "base_url": "https://xsmm.net",
+    "rest_per_job_seconds": 5,
+    "rest_timing": "after_coins",
+    "tasks": [
+      {
+        "type": "facebook_like",
+        "enabled": true
+      },
+      {
+        "type": "facebook_follow",
+        "enabled": true
+      },
+      {
+        "type": "facebook_comment",
+        "enabled": true
+      },
+      {
+        "type": "facebook_share",
+        "enabled": true
+      }
+    ]
+  }
+}
