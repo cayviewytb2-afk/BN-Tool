@@ -1,0 +1,12 @@
+# Chặn 100% tất cả các file và thư mục theo mặc định (database, logs, configs, source, temp...)
+*
+*.*
+**/*
+
+# Chỉ cho phép duy nhất 3 file binary build, file version và hướng dẫn README
+!bn_tool_windows.exe
+!bn_tool_arm64
+!bn_tool_arm32
+!version.json
+!README.md
+!.gitignore
