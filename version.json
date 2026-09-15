@@ -5,6 +5,7 @@
   "link_download": "https://github.com/cayviewytb2-afk/BN-Tool",
   "platforms": {
     "nvc": true,
-    "xsmm": false
+    "xsmm": true,
+    "ttc": true
   }
 }
