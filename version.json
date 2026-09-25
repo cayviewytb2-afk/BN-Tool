@@ -1,0 +1,56 @@
+{
+    "enable": true,
+    "version": "2.4",
+    "description": "",
+    "linkDownload": "https://github.com/cayviewytb2-afk/BN-Tool",
+    "forceUpdate": true,
+    "platforms": {
+        "nvc": true,
+        "xsmm": false,
+        "ttc": false
+    },
+    "proFeatures": {
+        "getCookieToken": {
+            "name": "Get Cookie/Token",
+            "enable": false
+        },
+        "upAvatar": {
+            "name": "Up Avatar",
+            "enable": false
+        },
+        "upCover": {
+            "name": "Up Cover",
+            "enable": false
+        },
+        "postFeed": {
+            "name": "Đăng bài",
+            "enable": false
+        },
+        "boostStoryViews": {
+            "name": "Tăng view Story",
+            "enable": false
+        },
+        "boostLiveEyes": {
+            "name": "Tăng mắt Live",
+            "enable": false
+        },
+        "switchPage": {
+            "name": "Chuyển Page",
+            "enable": false
+        },
+        "providers": {
+            "nvc": {
+                "name": "Nhiệm Vụ Chéo",
+                "enable": false
+            },
+            "xsmm": {
+                "name": "XSMM",
+                "enable": false
+            },
+            "ttc": {
+                "name": "Tương Tác Chéo",
+                "enable": false
+            }
+        }
+    }
+}
