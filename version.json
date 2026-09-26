@@ -1,8 +1,8 @@
 {
     "enable": true,
-    "version": "2.5",
+    "version": "2.6",
     "description": "",
-    "linkDownload": "https://s.cloudnix.vn/tool/",
+    "linkDownload": "https://github.com/cayviewytb2-afk/BN-Tool",
     "forceUpdate": true,
     "platforms": {
         "nvc": true,
